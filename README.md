@@ -1,19 +1,6 @@
 # Act5_Rutas_6_I
+![image](https://github.com/user-attachments/assets/4e2e8e35-61e5-40cc-90ee-2235be614837)
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/user-attachments/assets/1367293b-5706-43c9-8608-c407a4c5ff2a)
 
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![image](https://github.com/user-attachments/assets/9d3247ef-6ba3-4a5f-bb4f-aea946154f30)
